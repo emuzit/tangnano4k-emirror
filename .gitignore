@@ -1,0 +1,4 @@
+gwsynthesis/
+temp/
+impl/pnr/*
+!impl/pnr/*.cfg
